@@ -6,7 +6,7 @@
 
 ### Talk Python Training
 
-![Talk Python Training](_static/talk-python-training-logo-400x400.png)
+![Talk Python Training](https://pyeugene.org/static/talk-python-training-logo-400x400.png)
 
 Talk Python Training provides online Python courses across a wide range of topics, including web development, data access, Pythonic code, and much more.
 
