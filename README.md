@@ -4,6 +4,12 @@
 
 # Sponsors
 
+## IDX
+
+![IDX](static/idx-logo.png)
+
+[IDX](https://idxbroker.com/) graciously hosts our meetups at their headquarters in Eugene, Oregon.
+
 ## Talk Python Training
 
 ![Talk Python Training](static/talk-python-training-logo-400x400.png)
