@@ -1,10 +1,10 @@
-# PyEugene
+# Events
 
 [Upcoming Meetups](https://www.meetup.com/pyeugene/)
 
-## Sponsors
+# Sponsors
 
-### Talk Python Training
+## Talk Python Training
 
 ![Talk Python Training](static/talk-python-training-logo-400x400.png)
 
